@@ -7,14 +7,14 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-```
+## Algorithm:
+
 STEP 1 : Start the program
 STEP 2 : Attach the given data file
 STEP 3 : Now find the satisfaction level of employee data
 STEP 4 : Find the accuracy and new predict value
 STEP 5 : End the program
-```
+
 
 ## Program:
 ```
