@@ -10,9 +10,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm:
 
 STEP 1 : Start the program
+<br>
 STEP 2 : Attach the given data file
+<br>
 STEP 3 : Now find the satisfaction level of employee data
+<br>
 STEP 4 : Find the accuracy and new predict value
+<br>
 STEP 5 : End the program
 
 
